@@ -17,7 +17,7 @@
 * An internal low-dropout regulator.
 
 ## Image of Esp-32.
-![this is an image](add the image)
+![this is an image](https://github.com/bhooshan11/Blinking-onboard-led-of-esp32/blob/main/ESP32-Pinout.png)
 
 ### Setting up arduino ide for esp32.
 * Download and install arduino ide from the [official website](https://www.arduino.cc/en/Main/Software ).
