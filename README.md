@@ -37,7 +37,7 @@
  * Go to **Tools-> Port** and select the appropriate port.
  * Write the code for blinking of built-in led 
      
-     Code:(paste the code link)
+     Code:(https://github.com/bhooshan11/Blinking-onboard-led-of-esp32/blob/main/task1.ino)
  * Compile and upload the code.
  
  
