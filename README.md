@@ -19,7 +19,7 @@
 ## Image of Esp-32.
 ![this is an image](https://github.com/bhooshan11/Blinking-onboard-led-of-esp32/blob/main/ESP32-Pinout.png)
 
-### Setting up arduino ide for esp32.
+### Setting up arduino IDE for esp32.
 * Download and install arduino ide from the [official website](https://www.arduino.cc/en/Main/Software ).
 * After installing, open IDE and go to **Files -> Prefrences** and open preference window and check for **Additional Boards Manager URL's**.
 * If the box already has another URL then paste the below URL by seperating another URL using comma otherwise paste the below URL into this box.
